@@ -12,7 +12,7 @@ To install, first install the [bitsandbytes](https://github.com/TimDettmers/bits
 
 ### Numbers
 
-In the table below you can see the latency and memory allocation statistics from nvidia-smi for different quantized types. All numbers below are from running on an RTX A5000.
+In the table below you can see the latency and memory allocation statistics from `nvidia-smi` for different quantized types. All numbers below are from running on an RTX A5000.
 
 | QType | Latency (ms) | Max Memory Allocation (MB) |
 | --- | --- | --- |
