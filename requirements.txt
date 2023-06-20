@@ -1,0 +1,7 @@
+torch
+torchvision
+numpy
+Pillow
+numpy
+transformers @ git+https://github.com/huggingface/transformers@main
+accelerate @ git+https://github.com/huggingface/accelerate@main
