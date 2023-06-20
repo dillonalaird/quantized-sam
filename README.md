@@ -21,6 +21,14 @@ In the table below you can see the latency and memory allocation statistics from
 | 8 bit | 294 | 4776 |
 | 4 bit | 255 | 4484 |
 
+And here's the model size itself, calculating the size from the parameters instead of tracking memeory with `nvidia-smi`
+
+| QType | Model Size (MB) |
+| --- | ---  |
+| 32 bit | 2430 |
+| 8 bit | 629 |
+| 4 bit | 329 |
+
 Running the Automatic Mask Generator code on an image for 32 bit, 8 bit and 4 bit images gives very similar looking segmentations:
 
 ![32bit](https://github.com/dillonalaird/quantized-sam/blob/main/assets/image_32bit.png)
