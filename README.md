@@ -23,6 +23,6 @@ In the table below you can see the latency and memory allocation statistics from
 
 Running the Automatic Mask Generator code on an image for 32 bit, 8 bit and 4 bit images gives very similar looking segmentations:
 
-![](assets/images/image_32bit.png)
-![](assets/images/image_8bit.png)
-![](assets/images/image_4bit.png)
+![](/assets/images/image_32bit.png)
+![](/assets/images/image_8bit.png)
+![](/assets/images/image_4bit.png)
