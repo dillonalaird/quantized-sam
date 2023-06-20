@@ -24,5 +24,5 @@ In the table below you can see the latency and memory allocation statistics from
 Running the Automatic Mask Generator code on an image for 32 bit, 8 bit and 4 bit images gives very similar looking segmentations:
 
 ![32bit](https://github.com/dillonalaird/quantized-sam/blob/main/assets/image_32bit.png)
-![8bit](https://github.com/dillonalaird/quantized-sam/blob/main/assets/image_16bit.png)
+![8bit](https://github.com/dillonalaird/quantized-sam/blob/main/assets/image_8bit.png)
 ![4bit](https://github.com/dillonalaird/quantized-sam/blob/main/assets/image_4bit.png)
